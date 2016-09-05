@@ -1,0 +1,36 @@
+{
+  "name": "deepfreeze",
+  "version": "1.0.0",
+  "description": "recursively Object.freeze() on objects and functions including prototype chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/deepfreeze.git"
+  },
+  "keywords": [
+    "\"deep",
+    "freeze\"",
+    "deepfreeze",
+    "thaw",
+    "freezer",
+    "freeze",
+    "recursive",
+    "object",
+    "deep",
+    "freeze",
+    "strict-mode"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/deepfreeze/issues"
+  },
+  "homepage": "https://github.com/serapath/deepfreeze#readme",
+  "dependencies": {
+    "x-is-function": "^1.0.2",
+    "x-is-object": "^0.1.0"
+  }
+}
